@@ -1,0 +1,7 @@
+[instances]
+instance1
+instance2
+
+[instances:vars]
+user_name=Gowtham
+user_des="DevOps Team User"
